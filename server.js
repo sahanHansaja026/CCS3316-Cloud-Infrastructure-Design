@@ -5,11 +5,13 @@ const cors = require("cors");
 const app = express();
 
 const postRouter = require("./routes/pakages");
+const DeleteRouter = require("./routes/deleterouter");
 
 app.use(bodyParser.json());
 app.use(cors());
 
 app.use(postRouter);
+app.use(DeleteRouter);
 
 const PORT = 7500;
 const database =

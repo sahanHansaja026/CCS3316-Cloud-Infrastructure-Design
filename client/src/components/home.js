@@ -29,7 +29,8 @@ export default class home extends Component {
             });
     }
     onDelete = (id) => {
-        axios.delete(`http://localhost:7500/post/delete/${id}`)
+        axios
+          .delete(`http://localhost:7500/post/delete/${id}`)
           .then((res) => {
             if (res.data.message === "Post deleted successfully") {
               alert("Delete successful");
