@@ -5,33 +5,33 @@ const postSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  email: {
+  price: {
     type: String,
     required: true,
   },
-  phone: {
+  category: {
     type: String,
     required: true,
   },
-  address: {
+  description: {
     type: String,
-    required: true,
+    required: false,
   },
-  salary: {
+  brand: {
     type: String,
-    required: true,
+    required: false, 
   },
-  department_id: {
+  size: {
     type: String,
-    required: true,
+    required: false, 
   },
-  hire_date: {
+  color: {
     type: String,
-    required: true,
+    required: false, 
   },
-  date_of_birth: {
+  weight: {
     type: String,
-    required: true,
+    required: false, 
   },
 });
 

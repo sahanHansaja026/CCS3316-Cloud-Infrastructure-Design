@@ -1,0 +1,38 @@
+.content {
+    margin-left: 25px;
+}
+
+h1 {
+    margin-left: 10px;
+    font-size: 23px;
+}
+
+.content table {
+    width: 650px;
+    margin-top: 10px;
+    border: 1px solid transparent;
+    font-size: 15px;
+}
+
+.content th {
+    background-color: #ffffff;
+    color: #333;
+    font-weight: bold;
+    padding: 8px;
+    text-align: left;
+    border: 1px solid transparent;
+}
+
+.content td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid transparent;
+}
+
+.content tr:nth-child(even) {
+    background-color: transparent;
+}
+
+.content tr:hover {
+    background-color: transparent;
+}
