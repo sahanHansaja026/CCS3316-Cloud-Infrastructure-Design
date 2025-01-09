@@ -43,12 +43,11 @@ A mid-sized company has hired your team to design and implement a cloud-based in
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sahanHansaja026/CCS3316-Cloud-Infrastructure-Design
 ```
 
 ### 2. Install Dependencies
 ```bash
-cd <project-directory>
 npm install
 ```
 
