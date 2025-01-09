@@ -1,6 +1,7 @@
-Here's the updated README.md with the directory structure included as per your request:
+If you do not want the content in markdown format, I will provide it in a regular text format.
 
-```markdown
+---
+
 # CCS3316 Cloud Infrastructure Design – Group Project
 
 ## Overview
@@ -152,6 +153,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React Documentation
 - MongoDB Documentation
 - Express Documentation
-```
-
-This version includes the folder structure as you requested, listing the server, routes, and models, along with the frontend components.
