@@ -12,32 +12,6 @@ This group project provides students with practical experience in designing and 
 ## Project Scenario
 A mid-sized company has hired your team to design and implement a cloud-based infrastructure to replace their existing on-premises servers. The company's current infrastructure is unable to handle high traffic during seasonal sales and lacks the scalability needed for growth. The management has decided to transition entirely to a cloud-based solution. Your task is to design a cloud infrastructure that is scalable, secure, cost-effective, and integrates real-time data analytics.
 
-## Deliverables
-### 1. Design Document (30 Marks)
-- **Business Case:** Outline the company’s requirements and goals.
-- **Architectural Diagrams:** Provide clear and detailed diagrams of your proposed infrastructure.
-- **AWS Service Justification:** Explain why each selected AWS service is suitable for the scenario.
-- **AWS Well-Architected Framework Alignment:** Describe how your solution aligns with the five pillars:
-  - Operational Excellence
-  - Security
-  - Reliability
-  - Performance Efficiency
-  - Cost Optimization
-- **Cost Analysis:** Provide an estimated cost breakdown of AWS services and propose strategies to optimize costs.
-
-### 2. Implementation (40 Marks)
-- Provision the designed infrastructure using Infrastructure as Code (IaC) tools such as Terraform, AWS CloudFormation, or AWS CDK.
-- Implement a CI/CD pipeline to automate the application deployment process.
-  - Include screenshots and evidence demonstrating the CI/CD implementation.
-
-### 3. Presentation (25 Marks)
-- Deliver a 10 to 15-minute group presentation summarizing your design and implementation.
-  - At least three group members must contribute.
-  - Include a recorded video presentation.
-  - Provide a Q&A slide featuring five critical questions with detailed explanations.
-
-### 4. Individual Contribution (5 Marks)
-- At the end of the report, include a page detailing each group member’s individual contributions to the project.
 
 ## Tech Stack
 
