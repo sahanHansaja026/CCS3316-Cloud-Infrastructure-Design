@@ -101,9 +101,29 @@ client/
 - **routes/package.js:** Routes for managing all pakage deatails.
 - **models/package.js:** Mongoose schema for pakage.
 
-## Contribution Guidelines
+## Individual Contributions
 
-Feel free to fork the repository and submit pull requests for any improvements or fixes. Please make sure to follow the project's coding standards and guidelines. Ensure all features are well-tested before submitting.
+- **22ug2-xxxx** - [Your Name]
+  - Designed and implemented the **Frontend** components (e.g., `home.js`, `createpost.js`, `editpost.js`, etc.).
+  - Integrated the frontend with the backend to ensure data retrieval and display.
+
+- **22ug2-0063** - [Your Name]
+  - Worked on **Backend** API routes (e.g., managing package details).
+  - Set up MongoDB connections and ensured proper handling of data storage and retrieval.
+
+- **22ug2-0035** - Sahan Hansaja
+  - Contributed to the **database design** using MongoDB and Mongoose.
+  - Assisted in **security measures** such as setting up CORS and implementing best practices for API security.
+
+- **22ug2-xxxx** - [Your Name]
+  - Managed **deployment** on AWS.
+  - Ensured proper scaling and infrastructure optimization for high availability.
+
+- **22ug1-xxxx** - [Your Name]
+  - Focused on **testing** and quality assurance, ensuring the backend and frontend integration works seamlessly.
+  - Wrote **unit tests** and performed manual testing for major features.
+
+
 
 ---
 
