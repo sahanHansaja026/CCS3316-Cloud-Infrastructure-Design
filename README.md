@@ -112,8 +112,9 @@ client/
   - Set up MongoDB connections and ensured proper handling of data storage and retrieval.
 
 - **22ug2-0035** - Sahan Hansaja
-  - Contributed to the **database design** using MongoDB and Mongoose.
-  - Assisted in **security measures** such as setting up CORS and implementing best practices for API security.
+  - Created the **Backend** architecture using Express and connected it to the **Frontend**.
+  - Initialized the project repository and set up version control using Git.
+  - Configured and added a **CI/CD pipeline** for automated deployment and testing processes.
 
 - **22ug2-xxxx** - [Your Name]
   - Managed **deployment** on AWS.
