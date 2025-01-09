@@ -1,7 +1,3 @@
-If you do not want the content in markdown format, I will provide it in a regular text format.
-
----
-
 # CCS3316 Cloud Infrastructure Design – Group Project
 
 ## Overview
