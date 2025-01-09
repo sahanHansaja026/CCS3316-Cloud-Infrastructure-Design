@@ -116,7 +116,6 @@ client/
   - Configured and added a **CI/CD pipeline** for automated deployment and testing processes.
 
 - **22ug2-xxxx** - [Your Name]
-  - Managed **deployment** on AWS.
   - Ensured proper scaling and infrastructure optimization for high availability.
 
 - **22ug1-xxxx** - [Your Name]
