@@ -84,13 +84,9 @@ After setting up both the frontend and backend, you can access the server by vis
 ```
 server.js
 routes/
-├── user.js
-├── subtitle.js
-├── search.js
+├── package.js
 models/
-├── user.js
-├── subtitle.js
-├── search.js
+├── package.js
 client/
 ├── src/
 │   ├── components/
@@ -102,12 +98,8 @@ client/
 ```
 
 - **server.js:** Main server file that configures the Express app and routes.
-- **routes/user.js:** Routes for handling user-related operations.
-- **routes/subtitle.js:** Routes for managing subtitles.
-- **routes/search.js:** Routes for performing search operations.
-- **models/user.js:** Mongoose schema for the user.
-- **models/subtitle.js:** Mongoose schema for subtitles.
-- **models/search.js:** Mongoose schema for search operations.
+- **routes/package.js:** Routes for managing all pakage deatails.
+- **models/package.js:** Mongoose schema for pakage.
 
 ## Contribution Guidelines
 
