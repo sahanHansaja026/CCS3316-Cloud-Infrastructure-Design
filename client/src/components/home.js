@@ -49,7 +49,7 @@ export default class home extends Component {
     render() {
         return (
           <div>
-            <h2>Employee Details</h2>
+            <h2>Package Details</h2>
             <table>
               <thead>
                 <tr>
