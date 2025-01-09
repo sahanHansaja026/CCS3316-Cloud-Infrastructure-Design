@@ -106,7 +106,7 @@ client/
   - Designed and implemented the **Frontend** components (e.g., `home.js`, `createpost.js`, `editpost.js`, etc.).
   - Integrated the frontend with the backend to ensure data retrieval and display.
 
-- **22ug2-0063** - [Your Name]
+- **22ug2-0063** - Pasindu Kavinda
   - Worked on **Backend** API routes (e.g., managing package details).
   - Set up MongoDB connections and ensured proper handling of data storage and retrieval.
 
