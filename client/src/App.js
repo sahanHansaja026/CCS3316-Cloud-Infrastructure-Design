@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom"; // Change Routes to Switch
+import { BrowserRouter, Switch, Route } from "react-router-dom"; 
 import Home from "./components/home";
 import NavBar from "./components/navbar";
 import PostDetails from "./components/postdetails";
